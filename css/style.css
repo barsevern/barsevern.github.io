@@ -385,7 +385,7 @@ h4 {
 
 h1 {
   font-size: clamp(2.6rem, 7vw, 5rem);
-  color: red;
+  color: white;
 }
 
 h2 {
@@ -1290,5 +1290,7 @@ p {
     overflow-y: auto;
   }
 }
+
+
 
 
