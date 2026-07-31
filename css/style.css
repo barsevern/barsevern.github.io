@@ -28,8 +28,7 @@ html {
 body {
   margin: 0;
   font-family: "Inter", system-ui, sans-serif;
-  background:
-    radial-gradient(circle at 12% 8%, rgba(239, 143, 56, 0.1), transparent 28rem),
+  background: radial-gradient(circle at 12% 8%, rgba(239, 143, 56, 0.1), transparent 28rem),
     radial-gradient(circle at 88% 38%, rgba(255, 210, 138, 0.06), transparent 24rem),
     linear-gradient(180deg, #1c1511 0%, var(--bg) 48%, #120e0c 100%);
   color: var(--text);
@@ -48,8 +47,7 @@ body::before {
   height: min(62vh, 560px);
   pointer-events: none;
   z-index: 0;
-  background:
-    linear-gradient(rgba(18, 14, 12, 0.28), rgba(18, 14, 12, 0.72)),
+  background: linear-gradient(rgba(18, 14, 12, 0.28), rgba(18, 14, 12, 0.72)),
     url("../data/image/Bar.webp?v=2") center / cover no-repeat;
   opacity: 0.45;
   filter: saturate(0.85);
@@ -67,8 +65,7 @@ body::after {
   height: min(62vh, 560px);
   pointer-events: none;
   z-index: 0;
-  background:
-    linear-gradient(rgba(18, 14, 12, 0.28), rgba(18, 14, 12, 0.72)),
+  background: linear-gradient(rgba(18, 14, 12, 0.28), rgba(18, 14, 12, 0.72)),
     url("../data/image/Bar.webp?v=2") center / cover no-repeat;
   opacity: 0.45;
   filter: saturate(0.85);
@@ -388,6 +385,7 @@ h4 {
 
 h1 {
   font-size: clamp(2.6rem, 7vw, 5rem);
+  color: red;
 }
 
 h2 {
@@ -643,8 +641,7 @@ p {
 .footer-minimal__brand {
   display: grid;
   grid-template-columns: auto max-content;
-  grid-template-areas:
-    "logo name"
+  grid-template-areas: "logo name"
     "logo meta";
   column-gap: 0.75rem;
   align-items: center;
@@ -850,8 +847,7 @@ p {
 .reveal {
   opacity: 0;
   transform: translateY(10px);
-  transition:
-    opacity 420ms ease,
+  transition: opacity 420ms ease,
     transform 420ms ease;
   transition-delay: var(--reveal-delay, 0ms);
 }
@@ -891,8 +887,7 @@ p {
 }
 
 .mojitos-feature {
-  background:
-    linear-gradient(90deg, rgba(28, 18, 13, 0.88), rgba(28, 18, 13, 0.54)),
+  background: linear-gradient(90deg, rgba(28, 18, 13, 0.88), rgba(28, 18, 13, 0.54)),
     url("../data/image/Customer_with_sangria.webp") center 42% / cover no-repeat;
   min-height: 12rem;
   align-content: end;
@@ -1295,3 +1290,5 @@ p {
     overflow-y: auto;
   }
 }
+
+
