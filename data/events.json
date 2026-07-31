@@ -9,6 +9,10 @@
   },
   "fixtures": [
     {
+      "day": "Coming soon",
+      "time": "New at Bar 7",
+      "title": "New Skittle Alley is coming soon!",
+      "details": "We’re getting a brand-new skittle alley ready. Keep an eye on our events page for opening details and weekly skittles events."
     }
   ],
   "events": [
