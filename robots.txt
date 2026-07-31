@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+# Original source images are retained for backup, not search indexing.
+Disallow: /data/archive/
+
+Sitemap: https://bar7.uk/sitemap.xml

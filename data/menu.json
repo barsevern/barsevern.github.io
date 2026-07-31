@@ -1,0 +1,111 @@
+{
+  "seo": {
+    "title": "Drinks & Mojitos Pizza Menu in Upton | Bar 7",
+    "description": "Browse drinks at Bar 7 pub in Upton upon Severn and order Mojitos pizza, salads and sides for delivery to your table with no added fee."
+  },
+  "intro": {
+    "heading": "Drinks at Bar 7",
+    "text": "Bar 7 serves drinks and a small selection of bar snacks. Jump to the Mojitos menu below for pizzas, salads and sides.",
+    "foodLink": "Food"
+  },
+  "categories": [
+    {
+      "title": "Drinks",
+      "items": [
+        {
+          "name": "Lager and pale ale",
+          "description": "Rotating draught favourites and chilled bottles.",
+          "price": "Ask at bar"
+        },
+        {
+          "name": "Cider",
+          "description": "Dry and fruit-led options served over ice.",
+          "price": "Ask at bar"
+        },
+        {
+          "name": "Low and no",
+          "description": "Alcohol-free beers, soft drinks, and mixers.",
+          "price": "Ask at bar"
+        }
+      ]
+    }
+  ],
+  "food": {
+    "heading": "Mojitos Pizza Menu",
+    "intro": "Order at the Bar 7 bar and Mojitos, just down the road, will deliver your food to your table here at Bar 7.",
+    "payment": "Pay by cash or card — no added delivery fee.",
+    "disclaimer": "Prices shown on this website may not always reflect the current price. We make every effort to keep the site updated, but please verify prices with a member of staff before ordering.",
+    "note": "Gluten-free pizza bases are available on request (10-inch only).",
+    "categories": [
+      {
+        "title": "Appetisers",
+        "items": [
+          { "name": "Olives", "price": "£4.50" },
+          { "name": "Anti Pasto", "description": "Cured meat and cheese platter (serves 2).", "price": "£16.00" }
+        ]
+      },
+      {
+        "title": "Pizzas",
+        "items": [
+          { "name": "Classic Margarita", "price": "9″ £10.30 · 12″ £11.50" },
+          { "name": "The Hawaiian", "description": "Classic ham and pineapple.", "price": "9″ £13.80 · 12″ £15.20" },
+          { "name": "The Ocean", "description": "Prawns, tuna, red onions and peppers.", "price": "9″ £14.80 · 12″ £17.50" },
+          { "name": "The Meat Lover", "description": "Meatballs, pepperoni, ham and chicken.", "price": "9″ £14.80 · 12″ £17.00" },
+          { "name": "The Mighty Vegan", "description": "Vegan cheese, peppers, mushrooms, onions and olives. Available in 12-inch only.", "price": "12″ £17.00" },
+          { "name": "The Veggie", "description": "Mushrooms, peppers, pineapple, red onion and olives.", "price": "9″ £14.30 · 12″ £16.30" },
+          { "name": "The Mexican", "description": "Pepperoni, sliced peppers and jalapeños.", "price": "9″ £14.20 · 12″ £16.80" },
+          { "name": "The Catalan", "description": "Chorizo, chicken, olives and peppers.", "price": "9″ £14.30 · 12″ £16.50" },
+          { "name": "The Hot One", "description": "Nduja hot sausage, pepperoni, peppers, chilli flakes and chilli jam.", "price": "9″ £14.80 · 12″ £17.20" },
+          { "name": "The Texas BBQ", "description": "Pulled pork, red onions and BBQ sauce.", "price": "9″ £14.30 · 12″ £16.80" },
+          { "name": "The Roman", "description": "Artichokes, goat’s cheese, pesto and red onions.", "price": "9″ £14.80 · 12″ £16.90" },
+          { "name": "The Revelation", "description": "Beef brisket, spicy sausage, smoked cheese, red onions and chilli jam.", "price": "9″ £15.00 · 12″ £17.20" },
+          { "name": "The Chicken", "description": "Chicken, ham, green pesto and sweet peppers.", "price": "9″ £14.30 · 12″ £16.50" },
+          { "name": "The Tuscan", "description": "Mushrooms, sundried tomatoes, peppers, olives and chilli honey.", "price": "9″ £13.80 · 12″ £16.80" },
+          { "name": "Pepperoni", "price": "9″ £13.50 · 12″ £15.50" },
+          { "name": "The Sicilian", "description": "Salami, pepperoni, burrata and olives. Spice it up with chilli honey.", "price": "9″ £12.30 · 12″ £13.80" }
+        ]
+      },
+      {
+        "title": "Salads",
+        "items": [
+          { "name": "Classic Greek Salad", "description": "Cucumber, tomato, buffalo mozzarella, olive oil and pesto.", "price": "£7.50" },
+          { "name": "House Salad", "description": "Mixed leaves, tomatoes, onion, peppers and balsamic dressing.", "price": "£7.50" },
+          { "name": "Meaty Salad", "description": "Mixed leaves, tomato and cucumber topped with pulled pork and shredded ham with Caesar dressing.", "price": "£7.50" }
+        ]
+      },
+      {
+        "title": "Sides",
+        "items": [
+          { "name": "Garlic dough balls", "price": "£4.80" },
+          { "name": "Fries", "price": "£4.50" },
+          { "name": "Cajun fries", "price": "£5.00" },
+          { "name": "Pulled pork and BBQ loaded fries", "description": "Serves 2.", "price": "£9.50" }
+        ]
+      },
+      {
+        "title": "Sauces & extras",
+        "items": [
+          { "name": "Home-made sauces", "description": "Piri piri chilli, spiced rum BBQ sauce, or garlic and lime mayo.", "price": "Ask at bar" },
+          { "name": "Make your own pizza", "description": "Create your own pizza using the ingredients featured above.", "price": "Ask at bar" }
+        ]
+      }
+    ]
+  },
+  "images": [
+    {
+      "src": "data/image/ShotsMenu+Spirits.webp",
+      "alt": "Shots and spirits lined up on the bar",
+      "caption": "Shots and spirits"
+    },
+    {
+      "src": "data/image/FlavouredVodka.webp",
+      "alt": "Flavoured vodka bottles on display",
+      "caption": "Flavoured vodka"
+    },
+    {
+      "src": "data/image/Shots.webp",
+      "alt": "Three shot glasses on the bar top",
+      "caption": "Fast pours"
+    }
+  ]
+}

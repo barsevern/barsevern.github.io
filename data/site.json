@@ -1,0 +1,64 @@
+{
+  "brand": "Bar 7 Sports Bar",
+  "websiteUrl": "https://bar7.uk/",
+  "tagline": "Sports bar and pub in Upton upon Severn",
+  "description": "Bar 7 is a friendly sports bar and pub at 57 Old Street, Upton upon Severn, serving drinks with live sport, music, pool and darts in the Malvern Hills area.",
+  "phone": "07972 668775",
+  "phoneTel": "+447972668775",
+  "logoPath": "data/image/Logo.webp",
+  "faviconPath": "data/image/Logo.webp",
+  "facebookUrl": "https://www.facebook.com/p/Bar7-Sports-Bar-100090738184654/",
+  "mapEmbedUrl": "https://www.google.com/maps?q=57%20Old%20St%2C%20Upton%20upon%20Severn%2C%20Worcester%20WR8%200HN&output=embed",
+  "googleMapsUrl": "https://www.google.com/maps/place/Bar+7/@52.0617559,-2.220804,684m/data=!3m2!1e3!4b1!4m6!3m5!1s0x4870fc423430583d:0xe764c6328c9534ba!8m2!3d52.0617526!4d-2.2182237!16s%2Fg%2F1vlqpn9g?entry=ttu&g_ep=EgoyMDI2MDcyMi4wIKXMDSoASAFQAw%3D%3D",
+  "geo": {
+    "latitude": 52.0617526,
+    "longitude": -2.2182237
+  },
+  "areaServed": [
+    "Upton upon Severn",
+    "Malvern Hills",
+    "Great Malvern",
+    "Worcestershire"
+  ],
+  "backdrop": {
+    "density": 28,
+    "drift": 0.13
+  },
+  "address": {
+    "streetAddress": "57 Old St",
+    "addressLocality": "Upton upon Severn",
+    "addressRegion": "Worcester",
+    "postalCode": "WR8 0HN",
+    "addressCountry": "GB"
+  },
+  "hours": [
+    { "day": "Monday", "closed": true },
+    { "day": "Tuesday", "closed": true },
+    { "day": "Wednesday", "opens": "18:00", "closes": "23:00" },
+    { "day": "Thursday", "opens": "18:00", "closes": "23:00" },
+    { "day": "Friday", "opens": "17:00", "closes": "00:00" },
+    { "day": "Saturday", "opens": "12:00", "closes": "00:00" },
+    { "day": "Sunday", "opens": "14:00", "closes": "20:00" }
+  ],
+  "nav": [
+    { "label": "Home", "href": "index.html" },
+    { "label": "About", "href": "about.html" },
+    { "label": "Menu", "href": "menu.html" },
+    { "label": "Events", "href": "events.html" },
+    { "label": "Reviews", "href": "reviews.html" },
+    { "label": "Gallery", "href": "gallery.html" },
+    { "label": "Visit", "href": "visit.html" }
+  ],
+  "footerLinks": [
+    { "label": "Privacy policy", "href": "privacy-policy.html" },
+    { "label": "Cookie policy", "href": "cookie-policy.html" }
+  ],
+  "cookieBanner": {
+    "title": "Cookie choices",
+    "copy": "We use essential storage for site functionality and load optional Google Maps only after you opt in.",
+    "accept": "Accept",
+    "reject": "Reject",
+    "settings": "Cookie settings"
+  },
+  "socialImage": "data/image/Bar.webp"
+}

@@ -1,0 +1,132 @@
+{
+  "seo": {
+    "title": "Bar 7 Pub Gallery | Upton upon Severn",
+    "description": "See Bar 7 in Upton upon Severn: drinks, live sport, music, pool, events and the atmosphere at our Malvern Hills sports pub."
+  },
+  "intro": {
+    "heading": "A look around the room",
+    "text": "Real pub energy, proper food, and the kind of atmosphere that builds as the evening goes on."
+  },
+  "images": [
+    {
+      "src": "data/image/Bar.webp",
+      "alt": "Back bar with bottles, taps, and hanging glassware",
+      "caption": "The bar set-up"
+    },
+    {
+      "src": "data/image/Customers1.webp",
+      "alt": "A group of customers smiling around a table with drinks and snacks",
+      "caption": "Group night out"
+    },
+    {
+      "src": "data/image/PoolTables.webp",
+      "alt": "Pool tables in the sports room with a TV in view",
+      "caption": "Pool tables and sport"
+    },
+    {
+      "src": "data/image/LiveFootball.webp",
+      "alt": "A football match playing on the large screen in the sports room",
+      "caption": "Live football on screen"
+    },
+    {
+      "src": "data/image/LiveFootball2.webp",
+      "alt": "Guests watching live football at Bar 7",
+      "caption": "Matchday atmosphere"
+    },
+    {
+      "src": "data/image/LiveFootball3.webp",
+      "alt": "Another live football fixture shown at Bar 7",
+      "caption": "More live sport"
+    },
+    {
+      "src": "data/image/Shots.webp",
+      "alt": "Three shot glasses lined up on the bar top",
+      "caption": "Shot line-up"
+    },
+    {
+      "src": "data/image/Customers2.webp",
+      "alt": "Two customers posing and smiling in the pub",
+      "caption": "Faces of the pub"
+    },
+    {
+      "src": "data/image/DanceFloor1.webp",
+      "alt": "The dance floor filling up as the night gets going",
+      "caption": "Dance floor"
+    },
+    {
+      "src": "data/image/DanceFloor2.webp",
+      "alt": "Guests dancing under the lights on a busy night",
+      "caption": "Late-night moves"
+    },
+    {
+      "src": "data/image/DanceFloor3.webp",
+      "alt": "A packed dance floor during a weekend event",
+      "caption": "Packed out"
+    },
+    {
+      "src": "data/image/Customer3.webp",
+      "alt": "A customer enjoying a night at Bar 7",
+      "caption": "Good nights at Bar 7"
+    },
+    {
+      "src": "data/image/Customer_playing_pool+dartboard.webp",
+      "alt": "A customer playing pool beside the dartboard",
+      "caption": "Pool and darts"
+    },
+    {
+      "src": "data/image/Customer_with_sangria.webp",
+      "alt": "A customer enjoying a sangria",
+      "caption": "Drinks with friends"
+    },
+    {
+      "src": "data/image/DJ.webp",
+      "alt": "DJ equipment set up for an event",
+      "caption": "DJ nights"
+    },
+    {
+      "src": "data/image/DJ2.webp",
+      "alt": "A DJ performing during a busy night",
+      "caption": "Behind the decks"
+    },
+    {
+      "src": "data/image/exterior.webp",
+      "alt": "The exterior of Bar 7",
+      "caption": "Outside Bar 7"
+    },
+    {
+      "src": "data/image/FlavouredVodka.webp",
+      "alt": "Flavoured vodka bottles behind the bar",
+      "caption": "Flavoured vodka"
+    },
+    {
+      "src": "data/image/fullexterior.webp",
+      "alt": "A full view of Bar 7 on Old Street",
+      "caption": "Find us on Old Street"
+    },
+    {
+      "src": "data/image/LiveMusic1.webp",
+      "alt": "A live band performing at Bar 7",
+      "caption": "Live music"
+    },
+    {
+      "src": "data/image/LiveMusic2.webp",
+      "alt": "Guests watching live music inside Bar 7",
+      "caption": "Live performances"
+    },
+    {
+      "src": "data/image/LiveMusic3.webp",
+      "alt": "A performer playing to the Bar 7 crowd",
+      "caption": "Music nights"
+    },
+    {
+      "src": "data/image/outback_with_benches_and_slide+swings.webp",
+      "alt": "Outdoor benches and play equipment behind Bar 7",
+      "caption": "Outdoor space"
+    },
+    {
+      "src": "data/image/ShotsMenu+Spirits.webp",
+      "alt": "The shots menu and spirits selection",
+      "caption": "Shots and spirits"
+    }
+  ]
+}

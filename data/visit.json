@@ -1,0 +1,57 @@
+{
+  "seo": {
+    "title": "Visit Bar 7 Pub in Upton upon Severn | Hours & Map",
+    "description": "Find Bar 7 at 57 Old Street, Upton upon Severn. Check pub opening hours, call us or get directions from Great Malvern and the Malvern Hills."
+  },
+  "intro": {
+    "heading": "Plan your route",
+    "text": "Find us at 57 Old Street in Upton upon Severn, in the Malvern Hills district and within easy reach of Great Malvern. Check our hours, call ahead or open directions below."
+  },
+  "contactCards": [
+    {
+      "title": "Address",
+      "text": "57 Old St, Upton upon Severn, Worcester WR8 0HN"
+    },
+    {
+      "title": "Phone",
+      "text": "07972 668775"
+    },
+    {
+      "title": "Parking",
+      "text": "Use nearby town-centre parking or the Rugby club car park."
+    }
+  ],
+  "travel": [
+    "A short walk from the centre of Upton upon Severn.",
+    "Straightforward access from Old Street.",
+    "Accessible step-free details are listed below so you can plan ahead."
+  ],
+  "accessibility": [
+    "Bar is situated on the ground floor with step-free access, with a ramp to the outdoor area.",
+    "Tables can be arranged for groups when available.",
+    "Staff can point you toward the quietest way in or out at busy times."
+  ],
+  "images": [
+    {
+      "src": "data/image/exterior.webp",
+      "alt": "Exterior of the pub at dusk",
+      "caption": "Street view"
+    },
+    {
+      "src": "data/image/fullexterior.webp",
+      "alt": "Full exterior view of Bar 7 Sports Bar",
+      "caption": "Find us on Old Street"
+    },
+    {
+      "src": "data/image/outback_with_benches_and_slide+swings.webp",
+      "alt": "Outdoor seating area with benches and play equipment",
+      "caption": "Outdoor space"
+    }
+  ],
+  "map": {
+    "title": "Google Map",
+    "placeholder": "This map stays hidden until you choose to load it.",
+    "button": "Accept & Show Map",
+    "frameTitle": "Bar 7 Sports Bar location on Google Maps"
+  }
+}

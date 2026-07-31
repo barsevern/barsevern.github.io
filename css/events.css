@@ -1,0 +1,38 @@
+@import url("./style.css?v=20260726-seo2");
+
+.photo-strip {
+  margin-top: 0.25rem;
+}
+
+.timeline {
+  display: grid;
+  gap: 0.9rem;
+}
+
+.timeline__item {
+  display: grid;
+  gap: 0.35rem;
+  padding-top: 0.9rem;
+  border-top: 1px solid var(--border);
+}
+
+.timeline__item:first-child {
+  border-top: 0;
+  padding-top: 0;
+}
+
+.timeline__time {
+  color: var(--accent-2);
+  font-weight: 700;
+}
+
+.event-highlight {
+  border-color: rgba(242, 169, 0, 0.35);
+  background: rgba(242, 169, 0, 0.08);
+}
+
+@media (min-width: 720px) {
+  .events-layout > .events-atmosphere {
+    grid-column: 1 / -1;
+  }
+}

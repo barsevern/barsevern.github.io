@@ -1,0 +1,191 @@
+{
+  "seo": {
+    "title": "Bar 7 | Sports Bar & Pub in Upton upon Severn",
+    "description": "Visit Bar 7 on Old Street, Upton upon Severn, for drinks, live sport, music, pool and darts near Great Malvern in Worcestershire."
+  },
+  "hero": {
+    "eyebrow": "Upton upon Severn",
+    "title": "Your local sports bar on Old Street",
+    "lead": "A friendly Upton upon Severn pub for matchday drinks and relaxed nights out in the Malvern Hills area, within easy reach of Great Malvern.",
+    "primaryCta": {
+      "label": "See the menu",
+      "href": "menu.html"
+    },
+    "secondaryCta": {
+      "label": "Plan your visit",
+      "href": "visit.html"
+    },
+    "image": {
+      "src": "data/image/Bar.webp",
+      "alt": "Busy pub bar with drinks and warm lighting"
+    }
+  },
+  "heroCanvas": {
+    "enabled": true,
+    "density": 44
+  },
+  "highlights": [
+    {
+      "title": "Live sport",
+      "text": "Big games, local favourites, and a proper matchday atmosphere.",
+      "image": {
+        "src": "data/image/LiveFootball.webp",
+        "alt": "Live football shown on the screens at Bar 7"
+      }
+    },
+    {
+      "title": "Cold pints",
+      "text": "Lager, ale, cider, and bottled favourites served straight from the bar.",
+      "image": {
+        "src": "data/image/Pints1.webp",
+        "alt": "Drinks lined up and ready to serve at Bar 7"
+      }
+    },
+    {
+      "title": "In-house pizzeria",
+      "text": "Order at the bar and have food delivered from Mojitos just down the road. Pay by cash or card with no added delivery fee.",
+      "href": "menu.html#food",
+      "image": {
+        "src": "data/image/Mojitos.webp",
+        "alt": "Mojitos pizzeria and rum bar"
+      }
+    }
+  ],
+  "liveMusic": [
+    {
+      "src": "data/image/LiveMusic1.webp",
+      "alt": "Live music crowd inside Bar 7",
+      "caption": "Live music nights"
+    },
+    {
+      "src": "data/image/LiveMusic2.webp",
+      "alt": "Guests watching live music at Bar 7",
+      "caption": "Packed-out room"
+    },
+    {
+      "src": "data/image/LiveMusic3.webp",
+      "alt": "Live performance in the bar",
+      "caption": "Featured performances"
+    }
+  ],
+  "intro": {
+    "heading": "Built for easy nights out",
+    "text": "Bar 7 keeps things simple: good service, a warm room, live sport on screen, and enough choice to satisfy the whole table."
+  },
+  "features": [
+    {
+      "title": "Matchday ready",
+      "text": "Screens positioned for easy viewing, with a soundtrack that lifts when the crowd does."
+    },
+    {
+      "title": "Friendly for groups",
+      "text": "Plenty of room for after-work drinks, birthdays, and low-key celebrations."
+    },
+    {
+      "title": "Easy to find",
+      "text": "You'll find us on Old Street in Upton upon Severn, a short walk from the town centre."
+    }
+  ],
+  "carousel": [
+    {
+      "src": "data/image/Bar.webp",
+      "alt": "The bar at Bar 7"
+    },
+    {
+      "src": "data/image/LiveFootball.webp",
+      "alt": "Live football on the big screen"
+    },
+    {
+      "src": "data/image/LiveFootball2.webp",
+      "alt": "Guests watching live football at Bar 7"
+    },
+    {
+      "src": "data/image/LiveFootball3.webp",
+      "alt": "Another live football fixture shown at Bar 7"
+    },
+    {
+      "src": "data/image/Customers1.webp",
+      "alt": "Customers enjoying an evening at Bar 7"
+    },
+    {
+      "src": "data/image/Customers2.webp",
+      "alt": "A busy night inside Bar 7"
+    },
+    {
+      "src": "data/image/Customer3.webp",
+      "alt": "A customer enjoying the atmosphere"
+    },
+    {
+      "src": "data/image/Customer_playing_pool+dartboard.webp",
+      "alt": "Pool and darts at Bar 7"
+    },
+    {
+      "src": "data/image/Customer_with_sangria.webp",
+      "alt": "A customer enjoying a sangria"
+    },
+    {
+      "src": "data/image/PoolTables.webp",
+      "alt": "Pool tables inside Bar 7"
+    },
+    {
+      "src": "data/image/DanceFloor1.webp",
+      "alt": "The dance floor at Bar 7"
+    },
+    {
+      "src": "data/image/DanceFloor2.webp",
+      "alt": "A lively dance floor"
+    },
+    {
+      "src": "data/image/DanceFloor3.webp",
+      "alt": "Guests dancing at Bar 7"
+    },
+    {
+      "src": "data/image/DJ.webp",
+      "alt": "DJ equipment ready for an event"
+    },
+    {
+      "src": "data/image/DJ2.webp",
+      "alt": "A DJ night at Bar 7"
+    },
+    {
+      "src": "data/image/LiveMusic1.webp",
+      "alt": "Live music at Bar 7"
+    },
+    {
+      "src": "data/image/LiveMusic2.webp",
+      "alt": "Guests watching a live band"
+    },
+    {
+      "src": "data/image/LiveMusic3.webp",
+      "alt": "A live performance inside Bar 7"
+    },
+    {
+      "src": "data/image/Shots.webp",
+      "alt": "Drinks ready to serve"
+    },
+    {
+      "src": "data/image/ShotsMenu+Spirits.webp",
+      "alt": "The shots and spirits selection"
+    },
+    {
+      "src": "data/image/FlavouredVodka.webp",
+      "alt": "Flavoured vodka behind the bar"
+    },
+    {
+      "src": "data/image/exterior.webp",
+      "alt": "The exterior of Bar 7"
+    },
+    {
+      "src": "data/image/fullexterior.webp",
+      "alt": "Bar 7 on Old Street"
+    },
+    {
+      "src": "data/image/outback_with_benches_and_slide+swings.webp",
+      "alt": "The outdoor seating and play area"
+    }
+  ],
+  "cta": {
+    "heading": "Want the full line-up?",
+    "text": "Check the menu, upcoming events, and visit details before you head over."
+  }
+}

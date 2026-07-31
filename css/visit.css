@@ -1,0 +1,116 @@
+@import url("./style.css?v=20260726-seo2");
+
+.visit-grid .card,
+.visit-grid .map-placeholder {
+  min-height: 100%;
+}
+
+.visit-contact {
+  padding: 1.35rem;
+}
+
+.visit-contact .policy__list {
+  display: grid;
+  gap: 0.4rem;
+}
+
+.contact-phone {
+  color: var(--accent-2);
+  text-decoration: underline;
+  text-underline-offset: 0.2em;
+}
+
+.contact-phone:hover,
+.contact-phone:focus-visible {
+  color: var(--text);
+}
+
+.hours-list {
+  display: grid;
+  gap: 0.4rem;
+}
+
+.hours-list li {
+  display: flex;
+  justify-content: space-between;
+  gap: 1rem;
+  padding-top: 0.45rem;
+  border-top: 1px solid var(--border);
+}
+
+.hours-list li:first-child {
+  border-top: 0;
+  padding-top: 0;
+}
+
+.map-placeholder__panel {
+  display: grid;
+  gap: 0.85rem;
+}
+
+.photo-strip {
+  margin-top: 0.25rem;
+}
+
+.visit-teaser {
+  margin-top: 0.25rem;
+}
+
+.visit-location-grid {
+  display: grid;
+  gap: 1rem;
+  align-items: stretch;
+}
+
+.visit-surroundings,
+.visit-map {
+  min-width: 0;
+  height: 100%;
+}
+
+.visit-photo-strip {
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+}
+
+.visit-photo-strip .gallery-item__caption {
+  font-size: 0.84rem;
+}
+
+.visit-map {
+  min-height: 24rem;
+}
+
+.visit-map .map-placeholder__panel {
+  height: 100%;
+  align-content: center;
+}
+
+.visit-map .map-frame {
+  min-height: 100%;
+  height: 100%;
+}
+
+@media (min-width: 820px) {
+  .visit-location-grid {
+    grid-template-columns: minmax(0, 1.15fr) minmax(320px, 0.85fr);
+  }
+}
+
+@media (max-width: 560px) {
+  .visit-photo-strip {
+    grid-template-columns: 1fr;
+  }
+
+  .hours-list li {
+    align-items: baseline;
+    font-size: 0.92rem;
+  }
+
+  .visit-contact {
+    padding: 1.1rem;
+  }
+
+  .visit-map {
+    min-height: 20rem;
+  }
+}

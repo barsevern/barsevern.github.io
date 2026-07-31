@@ -1,0 +1,32 @@
+@import url("./style.css?v=20260726-seo2");
+
+.policy-page .policy-shell {
+  display: grid;
+  gap: 1rem;
+}
+
+.policy-page .policy__section {
+  display: grid;
+  gap: 0.75rem;
+}
+
+.policy-page .policy__list {
+  display: grid;
+  gap: 0.55rem;
+}
+
+.policy-page .policy__list li {
+  position: relative;
+  padding-left: 1.05rem;
+}
+
+.policy-page .policy__list li::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 0.62rem;
+  width: 0.45rem;
+  height: 0.45rem;
+  border-radius: 999px;
+  background: var(--accent-2);
+}

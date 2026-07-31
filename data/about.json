@@ -1,0 +1,61 @@
+{
+  "seo": {
+    "title": "About Bar 7 | Upton upon Severn Sports Pub",
+    "description": "Discover Bar 7, a welcoming sports bar and pub in Upton upon Severn with drinks, live sport, music, pool and darts near Great Malvern."
+  },
+  "hero": {
+    "eyebrow": "About Bar 7",
+    "title": "A pub that feels easy from the first pint",
+    "lead": "We’re a no-fuss sports bar and pub in Upton upon Severn with a neighbourhood feel, built for good company, drinks and live sport."
+  },
+  "story": [
+    "Bar 7 Sports Bar is designed for people who want a proper pub night without the fuss. Find us in Upton upon Severn in the Malvern Hills district, a short trip from Great Malvern. The room is relaxed, the drinks are cold, and the screens keep everyone in the game.",
+    "Whether you’re dropping in for a quick pint, watching the football, or settling in with friends for the evening, the aim is the same: keep the service sharp and the atmosphere welcoming."
+  ],
+  "values": [
+    {
+      "title": "Welcoming",
+      "text": "A place where regulars, visitors, and first-timers all get the same easy-going service."
+    },
+    {
+      "title": "Reliable",
+      "text": "Simple, well-kept drinks, familiar favourites, and a team that keeps the room moving."
+    },
+    {
+      "title": "Lively",
+      "text": "Big matches, weekend energy, and enough volume to make important moments land."
+    }
+  ],
+  "whatToExpect": [
+    "Screens positioned for sport without overwhelming the room.",
+    "Comfortable seating for groups and casual drop-ins.",
+    "A small selection of bar snacks is available; ask the team for the current choice.",
+    "Straightforward access from Old Street in Upton upon Severn."
+  ],
+  "outdoor": {
+    "eyebrow": "Outside at Bar 7",
+    "title": "Outdoor seating for the whole group",
+    "text": "Enjoy our outdoor seating area, with a small children’s play area featuring a slide and swing set. We also have a sheltered smoking area with heat lamps for cooler evenings.",
+    "image": {
+      "src": "data/image/outback_with_benches_and_slide+swings.webp",
+      "alt": "Bar 7 outdoor seating with benches, a children’s slide and swing set"
+    }
+  },
+  "images": [
+    {
+      "src": "data/image/Customer3.webp",
+      "alt": "Guests smiling together inside the pub",
+      "caption": "Friendly crowd"
+    },
+    {
+      "src": "data/image/Customer_playing_pool+dartboard.webp",
+      "alt": "Customer playing pool in the games area",
+      "caption": "Pool and darts"
+    },
+    {
+      "src": "data/image/Customer_with_sangria.webp",
+      "alt": "Customer holding a sangria in the bar",
+      "caption": "Drinks and socials"
+    }
+  ]
+}

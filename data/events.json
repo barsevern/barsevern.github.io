@@ -1,0 +1,49 @@
+{
+  "seo": {
+    "title": "Live Sport & Events in Upton upon Severn | Bar 7",
+    "description": "See live sport, music and entertainment at Bar 7 pub in Upton upon Severn, serving the Malvern Hills and Great Malvern area."
+  },
+  "intro": {
+    "heading": "What’s on this week",
+    "text": "Fixtures and social nights change week to week, but the plan stays the same: sports on screen, good drinks, and a room that gets louder when it matters."
+  },
+  "fixtures": [
+    {
+    }
+  ],
+  "events": [
+    {
+      "title": "2 For 1 Sundays",
+      "time": "Every Sunday, 3PM - 5PM",
+      "details": "Carling, Guest Ale, Inch's Cider, Glasses Of Wine and Single Selected Spirits."
+    },
+    {
+      "title": "Birthday bookings",
+      "time": "By arrangement",
+      "details": "Reserve a table for celebrations, match nights, or work socials.",
+      "highlight": true
+    },
+    {
+      "title": "Live sport requests",
+      "time": "During opening hours",
+      "details": "If there’s a fixture you want to see, ask the team and we’ll do our best."
+    }
+  ],
+  "images": [
+    {
+      "src": "data/image/LiveMusic1.webp",
+      "alt": "Crowd enjoying live music in the bar",
+      "caption": "Live music"
+    },
+    {
+      "src": "data/image/DJ.webp",
+      "alt": "DJ setup at a Bar 7 event night",
+      "caption": "DJ sets"
+    },
+    {
+      "src": "data/image/LiveFootball.webp",
+      "alt": "Viewers watching live football on the big screen",
+      "caption": "Live Sports"
+    }
+  ]
+}

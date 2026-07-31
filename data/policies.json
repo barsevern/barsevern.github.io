@@ -1,0 +1,103 @@
+{
+  "seo": {
+    "privacy": {
+      "title": "Privacy Policy | Bar 7 Sports Bar",
+      "description": "Read how Bar 7 Sports Bar handles contact details, cookies, and map embeds on the website.",
+      "robots": "noindex,follow"
+    },
+    "cookies": {
+      "title": "Cookie Policy | Bar 7 Sports Bar",
+      "description": "See how Bar 7 Sports Bar uses essential cookies, consent preferences, and third-party map embeds.",
+      "robots": "noindex,follow"
+    }
+  },
+  "privacy": {
+    "title": "Privacy policy",
+    "updated": "26 July 2026",
+    "intro": "This page explains how the website handles basic browsing data, contact details, map preferences, photographs, and saved review content.",
+    "images": [
+      {
+        "src": "data/image/exterior.webp",
+        "alt": "The exterior of Bar 7 Sports Bar",
+        "caption": "Where the pub sits"
+      },
+      {
+        "src": "data/image/Bar.webp",
+        "alt": "Bar area with bottles and taps",
+        "caption": "Inside the bar"
+      }
+    ],
+    "sections": [
+      {
+        "heading": "Who we are",
+        "body": "Bar 7 Sports Bar is the data controller for this website. If you have questions about this policy, call 07972 668775."
+      },
+      {
+        "heading": "Information we collect",
+        "items": [
+          "Contact details you choose to share by phone.",
+          "Consent preferences stored in localStorage.",
+          "Basic technical data needed to serve the website.",
+          "Google Maps content only after you accept it on the Visit page."
+        ]
+      },
+      {
+        "heading": "How we use it",
+        "items": [
+          "To show the site, keep the cookie banner state, and remember map consent.",
+          "To respond when you call the pub directly.",
+          "To avoid loading third-party map content until you opt in."
+        ]
+      },
+      {
+        "heading": "Photographs",
+        "body": "We display photographs taken at Bar 7 to show the venue and its atmosphere. If you are featured in a photograph and would like it removed, please contact us by phone to request removal.",
+        "phone": "07972 668775"
+      },
+      {
+        "heading": "Saved reviews",
+        "body": "The Reviews page contains review text manually copied from the Bar 7 Google business listing. Reviewer first names are reduced to initials for privacy. No external review widget or tracking script is loaded. If your review is featured and you would like it removed, please contact us by phone to request removal.",
+        "phone": "07972 668775"
+      },
+      {
+        "heading": "Your choices",
+        "body": "You can clear localStorage in your browser to reset consent choices, or use the Cookie settings link in the footer to reopen the banner."
+      }
+    ]
+  },
+  "cookies": {
+    "title": "Cookie policy",
+    "updated": "26 July 2026",
+    "intro": "This site keeps cookies and storage to the minimum needed for site behaviour and optional embeds.",
+    "images": [
+      {
+        "src": "data/image/fullexterior.webp",
+        "alt": "Full exterior of Bar 7 Sports Bar at night",
+        "caption": "Full exterior"
+      },
+      {
+        "src": "data/image/Customers2.webp",
+        "alt": "Guests chatting in the pub",
+        "caption": "Real people, real room"
+      }
+    ],
+    "sections": [
+      {
+        "heading": "Essential storage",
+        "items": [
+          "Remembering whether you accepted or rejected the site banner.",
+          "Remembering whether you chose to load the Visit page map.",
+          "Saving the decision locally in your browser so the banner does not reappear every visit."
+        ]
+      },
+      {
+        "heading": "Third-party content",
+        "body": "Google Maps is only injected after you choose to show it on the Visit page. Until then, the map service remains unloaded. The saved Reviews page does not load an external review widget."
+      },
+      {
+        "heading": "Managing cookies",
+        "body": "You can change your mind any time by reopening Cookie settings from the footer, or by clearing site data in your browser."
+      }
+    ]
+  }
+}
