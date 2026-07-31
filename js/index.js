@@ -10,7 +10,7 @@ function renderHome(page, site) {
       <div class="hero-grid">
         <div class="stack hero-kicker">
           <p class="section__eyebrow">${escapeHtml(page.hero.eyebrow)}</p>
-          <h1>${escapeHtml(page.hero.title)}</h1>
+          <h1>Bar 7: ${escapeHtml(page.hero.title)}</h1>
           <p class="lede">${escapeHtml(page.hero.lead)}</p>
           <div class="button-row">
             <a class="button button--accent" href="${escapeHtml(page.hero.primaryCta.href)}">${escapeHtml(page.hero.primaryCta.label)}</a>
