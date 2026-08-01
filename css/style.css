@@ -1110,8 +1110,8 @@ p {
 
   .nav-toggle {
     position: relative;
-    width: 3rem;
-    height: 3rem;
+    width: 3.5rem;
+    height: 3.5rem;
     padding: 0;
     gap: 0;
     border: 1px solid rgba(255, 235, 207, 0.24);
@@ -1134,8 +1134,8 @@ p {
   }
 
   .nav-toggle__icon {
-    width: 1.05rem;
-    height: 1.5px;
+    width: 1.3rem;
+    height: 2px;
     border-radius: 999px;
   }
 
@@ -1145,11 +1145,11 @@ p {
   }
 
   .nav-toggle__icon::before {
-    top: -0.32rem;
+    top: -0.4rem;
   }
 
   .nav-toggle__icon::after {
-    top: 0.32rem;
+    top: 0.4rem;
   }
 
   .nav-list {
