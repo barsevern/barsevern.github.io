@@ -1,6 +1,7 @@
 # Proprietary Software License & Reservation of Rights
 
 **Copyright (C) 2026 Bailie Byrne. All Rights Reserved.**
+For licensing inquiries or legal contact, email: **byrnebailie@gmail.com**
 
 ---
 
@@ -29,3 +30,4 @@ The Developer reserves full legal right to immediately and unilaterally:
 ---
 
 *This repository and its contents are protected by the UK Copyright, Designs and Patents Act 1988 and international copyright treaties.*
+For licensing inquiries or legal contact, email: **byrnebailie@gmail.com**
