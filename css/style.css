@@ -801,6 +801,24 @@ p {
   color: var(--text);
 }
 
+.footer-credit {
+  margin: 0.55rem 0 0;
+  color: var(--muted);
+  font-size: 0.72rem;
+  font-style: italic;
+}
+
+.footer-credit a {
+  color: inherit;
+  text-decoration: underline;
+  text-underline-offset: 0.18em;
+}
+
+.footer-credit a:hover,
+.footer-credit a:focus-visible {
+  color: var(--text);
+}
+
 .cookie-banner {
   position: fixed;
   left: 50%;

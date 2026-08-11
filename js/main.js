@@ -387,6 +387,7 @@ export function renderShell(site) {
         <div class="footer-reviews-link">
           <a href="reviews.html">Check out our reviews</a>
         </div>
+        <p class="footer-credit">This Site was developed by <a href="mailto:bailie@byrnebusiness.com">Bailie Byrne</a> and remains his IP</p>
       </div>
     `;
   }
